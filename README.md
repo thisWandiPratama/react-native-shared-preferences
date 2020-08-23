@@ -118,3 +118,5 @@ SharedPreferences.getAllKeys(function(keys){
 SharedPreferences.removeItem("key");
 ```
 
+## Reference
+![react-native-shared-preferences](https://openbase.io/js/react-native-shared-preferences)
