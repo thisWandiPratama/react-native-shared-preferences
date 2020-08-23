@@ -76,7 +76,7 @@ SharedPreferences.setItem("key","value");
 
 #### Get an value
 
-````
+```
 SharedPreferences.getItem("key", function(value){
   console.log(value);
 });
