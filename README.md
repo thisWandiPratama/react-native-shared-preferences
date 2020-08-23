@@ -30,8 +30,8 @@ project(':react-native-shared-preferences').projectDir = new File(rootProject.pr
 ...
 dependencies {
     /* YOUR DEPENDENCIES HERE */
-    compile "com.facebook.react:react-native:+"
-    compile project(":react-native-shared-preferences") // <--- add this
+    implemention "com.facebook.react:react-native:+"
+    implemention project(":react-native-shared-preferences") // <--- add this
 }
 ```
 
